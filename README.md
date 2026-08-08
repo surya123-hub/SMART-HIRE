@@ -784,9 +784,7 @@ The resulting system provides an end-to-end prototype for intelligent resume ana
 ---
 
 ## Author
-
-Satwik Guptha
-
+PUSULURI SAI SURYA TEJA
 B.Tech - Artificial Intelligence and Data Science
 
 ---
